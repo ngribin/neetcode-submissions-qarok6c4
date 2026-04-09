@@ -7,5 +7,3 @@ class Solution:
             h[num] += 1
 
         return count
-        
-        
